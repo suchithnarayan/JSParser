@@ -11,6 +11,8 @@ A python 2.7 script using Tornado and JSBeautifier to parse relative URLs from J
 # Installing
 
 ```
+$ apt install libcurl4-openssl-dev libssl-dev
+$ pip install -r requirements.txt
 $ python setup.py install
 ```
 
